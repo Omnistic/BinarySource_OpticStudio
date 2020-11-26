@@ -3,6 +3,7 @@ This Python repository contains a template script to write binary source files f
 ## Python scripts
 * write_source_TEMPLATE.py
 * write_source_stigmatic_gaussian_beam.py
+
 Note that if one wants to use spectral information in each ray, the file extension should be SDF, and not DAT
 ## Examples of binary source files generated with the Python scripts
 Those files have to be placed in your document folder under *\Zemax\Objects\Sources\Source Files*
